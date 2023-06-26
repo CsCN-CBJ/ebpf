@@ -1,4 +1,4 @@
-module github.com/cilium/ebpf
+module github.com/CsCN-CBJ/ebpf
 
 go 1.19
 
