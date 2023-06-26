@@ -150,6 +150,7 @@ const (
 	Extension
 	LSM
 	SkLookup
+	Boesfs
 	Syscall
 )
 

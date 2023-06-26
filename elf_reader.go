@@ -1268,6 +1268,7 @@ func getProgType(sectionName string) (ProgramType, AttachType, uint32, string) {
 		{"seccomp", SocketFilter, AttachNone, 0},
 		{"kprobe.multi", Kprobe, AttachTraceKprobeMulti, 0},
 		{"kretprobe.multi", Kprobe, AttachTraceKprobeMulti, 0},
+		{"boesfs", Boesfs, AttachNone, 0},
 	}
 
 	for _, t := range types {
