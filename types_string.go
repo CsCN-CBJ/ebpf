@@ -85,7 +85,8 @@ func _() {
 	_ = x[Extension-28]
 	_ = x[LSM-29]
 	_ = x[SkLookup-30]
-	_ = x[Syscall-31]
+	_ = x[Boesfs-31]
+	_ = x[Syscall-32]
 }
 
 const _ProgramType_name = "UnspecifiedProgramSocketFilterKprobeSchedCLSSchedACTTracePointXDPPerfEventCGroupSKBCGroupSockLWTInLWTOutLWTXmitSockOpsSkSKBCGroupDeviceSkMsgRawTracepointCGroupSockAddrLWTSeg6LocalLircMode2SkReuseportFlowDissectorCGroupSysctlRawTracepointWritableCGroupSockoptTracingStructOpsExtensionLSMSkLookupSyscall"
