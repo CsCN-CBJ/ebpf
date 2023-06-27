@@ -1,6 +1,6 @@
 module github.com/CsCN-CBJ/ebpf
 
-go 1.19
+go 1.18
 
 require (
 	github.com/cilium/ebpf v0.10.0
